@@ -10,9 +10,12 @@ Welcome to my GitHub, I hope that will be of interest,
 here you will find something about my work.
 
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </h2>
 
