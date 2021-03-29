@@ -6,9 +6,9 @@
   <a href="https://sourcerer.io/rogerrendons"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
 -->
 
-<p align="center">
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
 
