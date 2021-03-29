@@ -10,21 +10,18 @@
 <img align="center" src="(https://github-readme-stats.vercel.app/api?username=rogerrendons)(https://github.com/anuraghazra/github-readme-stats)"
 </p>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 <p>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Roger Rendon, and here you'll find something about me:</h1>
   <img align='right' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrendons&theme=vue&show_icons=true" alt="My github stats" />
 </p>
-
+-->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </p>
@@ -41,15 +38,9 @@
   </a> <a href="https://medium.com/rogerrendons" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
  
-**llanojs/llanojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋
-
-
 **rogerrendons/rogerrendons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
