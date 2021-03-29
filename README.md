@@ -4,7 +4,9 @@
 
   Hello...
   
-  Welcome to my GitHub, I hope that will be of interest, here you will find something about my work.
+  Welcome to my GitHub, I hope that will be of interest,
+  
+  here you will find something about my work.
 </h2>
 
 
