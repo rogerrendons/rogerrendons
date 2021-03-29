@@ -1,12 +1,9 @@
 <h1 align="center">Roger Rendon's GitHub</h1>
 
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello...
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hello...
   
-  Welcome to my GitHub
-  
-  I hope that will be of interest
-  
-  here you will find something about my work
+  Welcome to my GitHub, I hope that will be of interest, here you will find something about my work.
 </h2>
 
 
