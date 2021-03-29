@@ -2,6 +2,7 @@
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <img align='left' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
+
   Hello...
   
   Welcome to my GitHub, I hope that will be of interest,
