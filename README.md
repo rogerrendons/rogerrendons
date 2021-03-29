@@ -3,15 +3,17 @@
 <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <img align='left' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="230">
 
-  Hello...
+Hello...
   
-  Welcome to my GitHub, I hope that will be of interest,
+Welcome to my GitHub, I hope that will be of interest,
   
-  here you will find something about my work.
+here you will find something about my work.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
 
 </h2>
 
-<center> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats) </center>
+
 
 
 
