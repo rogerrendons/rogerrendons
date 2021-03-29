@@ -21,9 +21,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </p>
 
-<!--<p align="center">
+<p align="center">
   <a href="https://sourcerer.io/juansedev" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
-</p>-->
+</p>
   
 <h3>Where to find me</h3>
 <p>
@@ -33,19 +33,11 @@
   </a> <a href="https://medium.com/rogerrendons" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
  
-
-
-
-<!--
 **llanojs/llanojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
 
 ### Hi there 👋
 
-<!--
+
 **rogerrendons/rogerrendons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -58,4 +50,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
