@@ -1,13 +1,5 @@
-<!-- <p align="center">
-  ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-  ![](https://komarev.com/ghpvc/?username=rogerrendons&color=dc143c)
-  ![](https://img.shields.io/static/v1?label=Readme&message=Profile&color=blue?style=plastic&logo=appveyor)
-  <a href="https://sourcerer.io/rogerrendons"><img src="https://img.shields.io/badge/C-897%20commits-orange.svg" alt=""></a>
-  <a href="https://sourcerer.io/rogerrendons"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
--->
-
 <p align="center">
-<img align="center" src="(https://github-readme-stats.vercel.app/api?username=rogerrendons)"
+<img align="center" src="(https://github-readme-stats.vercel.app/api?username=rogerrendons)(https://github.com/anuraghazra/github-readme-stats)"
 </p>
 
 <!--
@@ -22,14 +14,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrendons&theme=vue&show_icons=true" alt="My github stats" />
 </p>
 -->
+
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </p>
-
 <p align="center">
   <a href="https://sourcerer.io/juansedev" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
 </p>
-  
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/rogerrendons" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -37,7 +29,6 @@
   <a href="https://www.linkedin.com/in/rogerrendons" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <a href="https://medium.com/rogerrendons" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
- 
 ### Hi there 👋
 **rogerrendons/rogerrendons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -49,3 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
