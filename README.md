@@ -1,12 +1,12 @@
+<!--
 <p align="center">
-  
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
   ![](https://komarev.com/ghpvc/?username=rogerrendons&color=dc143c)
   ![](https://img.shields.io/static/v1?label=Readme&message=Profile&color=blue?style=plastic&logo=appveyor)
   <a href="https://sourcerer.io/rogerrendons"><img src="https://img.shields.io/badge/C-897%20commits-orange.svg" alt=""></a>
   <a href="https://sourcerer.io/rogerrendons"><img src="https://img.shields.io/badge/Python-457%20commits-orange.svg" alt=""></a>
 </p>
-
+-->
   
 <p>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Roger Rendon, and here you'll find something about me:</h1>
