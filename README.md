@@ -7,11 +7,13 @@
   Welcome to my GitHub, I hope that will be of interest,
   
   here you will find something about my work.
+
+  <img align='right' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
 </h2>
 
 
-  <img align='right' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
-</p>
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
