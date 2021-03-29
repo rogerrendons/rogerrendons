@@ -6,13 +6,14 @@
 
 [](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
-
-<!--
 <p>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Roger Rendon, and here you'll find something about me:</h1>
   <img align='right' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
 </p>
+
+
+
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrendons&theme=vue&show_icons=true" alt="My github stats" />
 </p>
