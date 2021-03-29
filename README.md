@@ -17,7 +17,7 @@
 
 <p>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Roger Rendon, and here you'll find something about me:</h1>
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  <img align='right' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
 </p>
 
 <p align="center">
