@@ -1,4 +1,6 @@
-<img src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="150">
+<p align="center">
+  <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="150">
+</p>
 
 <h1 align="center">Roger Rendon's GitHub</h1>
 
