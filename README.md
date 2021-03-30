@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="150">
+  <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="300">
 </p>
 <h1 align="center">Roger Rendon's GitHub</h1>
 
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">
   Hello...
   
   Welcome to my GitHub, I hope that will be of interest,
@@ -12,13 +11,11 @@
   here you will find something about my work.
 </h2>
 
-<!--
-<h2>
+<!-- <h2>
 My Stats...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3 align="center">Where to find me</h3>
 <p align="center">
