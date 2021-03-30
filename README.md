@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
+<img align='center' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="150">
 
 <h1 align="center">Roger Rendon's GitHub</h1>
 
