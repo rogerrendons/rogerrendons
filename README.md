@@ -20,13 +20,12 @@ My Stats...
 
 <h1 align="center">Where to find me</h1>
 <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="40">
-"   "<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="40">
-"   "<img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="40">
-"   "<img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="40">
-"   "<img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="40">
-"   "<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="40">
+   <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="40">
+   <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="40">
+   <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="40">
+   <img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="40">
+   <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="40">
 </p>
-
 
 <p align="center">
   <a href="https://github.com/rogerrendons" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
