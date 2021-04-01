@@ -19,6 +19,15 @@ My Stats...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3 align="center">Where to find me</h3>
+
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="30">
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="30">
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="30">
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30">
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30">
+<h2 align="center"><img src="" width="30">
+
+
 <p align="center">
   <a href="https://github.com/rogerrendons" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> <a href="https://twitter.com/RogerRendons" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
