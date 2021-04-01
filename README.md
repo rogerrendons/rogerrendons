@@ -33,8 +33,7 @@ My Stats...
   <a href="https://www.linkedin.com/in/roger-rendon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <a href="https://medium.com/@roger-rendon" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30">
-
-
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
 </p>
-
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
+</p>
