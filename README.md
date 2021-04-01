@@ -21,11 +21,11 @@ My Stats...
 <h2 align="center">Where to find me</h3>
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="30">
- <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="30">
- <img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="30">
- <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30">
- <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30">
- <img src="" width="30">
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="30">
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30">
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="30">
+  <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30">
+  <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
 </h2>
 
 
