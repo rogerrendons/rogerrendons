@@ -18,9 +18,9 @@ My Stats...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="40">
-<h1 align="center">Where to find me</h1>
-<img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="40">
+
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="40"> Where to find me <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="40"></h1>
 
 <p align="center">
    <img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="40">
@@ -32,6 +32,8 @@ My Stats...
   </a> <a href="https://twitter.com/RogerRendons" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/roger-rendon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <a href="https://medium.com/@roger-rendon" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-   <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="40">
+  <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="40">
+
+  <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="40">
 </p>
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="40">
+
