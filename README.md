@@ -18,14 +18,14 @@ My Stats...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h3 align="center">Where to find me</h3>
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="30">
+<h1 align="center">Where to find me</h1>
+<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="30">
     <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30">
     <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="30">
     <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30">
     <img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="30">
     <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
-</h2>
+</p>
 
 
 <p align="center">
