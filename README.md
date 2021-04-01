@@ -20,9 +20,12 @@ My Stats...
 
 
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="30"> Where to find me <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="30">
-
-<img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="30">
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="30">
+  Where to find me 
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="30">
+  <p align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="30">
+  </p>    
 </h1>
 
 <p align="center">
