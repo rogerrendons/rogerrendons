@@ -21,11 +21,9 @@ My Stats...
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="30"> Where to find me <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="30"></h1>
-
 <p align="center">
    <img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="30">
 </p>
-
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30">
   <a href="https://github.com/rogerrendons" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
