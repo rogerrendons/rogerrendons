@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Roger Rendon's GitHub</h1>
 
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">
+<h2 align="center"><img src="https://github.com/rogerrendons/rogerrendons/blob/main/Glases.gif" width="30">
   
   Hello...
   
@@ -20,16 +20,16 @@ My Stats...
 
 
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045" width="40">
+  <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Five.gif" width="40">
   Where to find me 
-  <img src="https://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif?1471045839" width="40">
-  <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" width="40"></p>
+  <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Clap.gif" width="40">
+  <p align="center"><img src="https://github.com/rogerrendons/rogerrendons/blob/main/Rock.gif" width="40"></p>
 </h1>
 <p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="40">
+  <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Dog.gif" width="40">
   <a href="https://twitter.com/RogerRendons" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/roger-rendon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@roger-rendon" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="40">
-  <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="40"></p>
+  <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Dino.gif" width="40">
+  <p align="center"><img src="https://github.com/rogerrendons/rogerrendons/blob/main/ProgramerPC.gif" width="40"></p>
 </p>
