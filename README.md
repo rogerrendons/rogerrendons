@@ -32,5 +32,5 @@ My Stats...
   <a href="https://medium.com/@roger-rendon" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <img src="https://github.com/rogerrendons/rogerrendons/blob/main/Dino.gif" width="40">
   <p align="center"><img src="https://github.com/rogerrendons/rogerrendons/blob/main/ProgramerPC.gif" width="40"></p>
-  <p align="center"><a href="mailto:rogerrendons@gmail.com" target="_blank"><img alt="Medium" src="https://github.com/rogerrendons/rogerrendons/blob/main/Google_Gmail.jpg"  width="80"/></a></p>
+  <p align="center"><a href="mailto:rogerrendons@gmail.com" target="_blank"><img alt="Medium" src="https://github.com/rogerrendons/rogerrendons/blob/main/Google_Gmail.jpg"  width="100"/></a></p>
 </p>
